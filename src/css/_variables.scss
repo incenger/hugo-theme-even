@@ -5,7 +5,7 @@
 // ========== Theme Color ========== //
 // Config here to change theme color
 // Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
-$theme-color-config: 'Cobalt Blue';
+$theme-color-config: 'Default';
 
 // Default theme color map
 $theme-color-map: (
@@ -55,7 +55,7 @@ $global-container-padding: 0 20px !default;
 $global-lineheight: 1.5 !default;
 
 // Font family of the site.
-$global-font-family: 'Roboto', sans-serif !default;
+$global-font-family: 'Encode Sans Semi Expanded', sans-serif !default;
 
 // Serif font family of the site.
 $global-serif-font-family: 'Noto Serif', serif !default;
@@ -65,12 +65,12 @@ $global-background: $white !default;
 
 // Headings font size of the site.
 $global-headings: (
-  h1: 26px,
-  h2: 24px,
-  h3: 20px,
-  h4: 16px,
-  h5: 14px,
-  h6: 14px
+  h1: 32px,
+  h2: 26px,
+  h3: 22px,
+  h4: 20px,
+  h5: 20px,
+  h6: 20px
 ) !default;
 
 
@@ -120,7 +120,7 @@ $post-padding: 1.5em 0 !default;
 $post-border: 1px solid $light-gray !default;
 
 // Font size of post title.
-$post-title-font-size: 36px !default;
+$post-title-font-size: 40px !default;
 
 // Font weight of post title.
 $post-title-font-weight: 500 !default;
